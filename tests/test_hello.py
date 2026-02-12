@@ -1,4 +1,5 @@
-from src.hello import hello_world
+def hello_world():
+    return "Hello world"
 
 
 def test_hello():
